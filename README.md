@@ -1,6 +1,4 @@
-Voici une version **entièrement prête à copier-coller** dans ton `README.md` :
 
----
 
 # 🎮 Mar&Maj – Jeu de Labyrinthe en Terminal (Python + Curses)
 
