@@ -50,8 +50,13 @@ Le joueur doit :
 ---
 
 # 🎮 Contrôles
+Z → Haut
 
-* ⬆️⬇️⬅️➡️ Flèches directionnelles : déplacement
+S → Bas
+
+Q → Gauche
+
+D → Droite
 * Une touche quelconque : continuer après un message
 
 ---
