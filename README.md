@@ -155,25 +155,7 @@ MarMaj/
 * Interface interactive avec curses
 * Conditions de victoire / défaite
 
----
 
-# ⚠️ Difficultés Rencontrées
 
-* Gestion des coordonnées hors limites
-* Débogage avec curses (les `print` ne s’affichent pas normalement)
-* Mise à jour correcte des variables entre fonctions
-* Gestion dynamique des objets bonus/malus
-
----
-
-# 🔮 Améliorations Possibles
-
-* Génération aléatoire de labyrinthes
-* Système de score global
-* Ajout d’un chronomètre
-* Menu principal interactif
-* Système de sauvegarde
-* Version graphique (Tkinter / Pygame)
-* Ajout d’ennemis
 
 
